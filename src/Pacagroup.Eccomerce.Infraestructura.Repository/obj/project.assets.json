@@ -714,11 +714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Repository\\Pacagroup.Eccomerce.Infraestructure.Repository.csproj",
+      "projectUniqueName": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Repository\\Pacagroup.Eccomerce.Infraestructure.Repository.csproj",
       "projectName": "Pacagroup.Eccomerce.Infraestructure.Repository",
-      "projectPath": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Repository\\Pacagroup.Eccomerce.Infraestructure.Repository.csproj",
+      "projectPath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Repository\\Pacagroup.Eccomerce.Infraestructure.Repository.csproj",
       "packagesPath": "C:\\Users\\Joaquin\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Repository\\obj\\",
+      "outputPath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -740,14 +740,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Data\\Pacagroup.Eccomerce.Infraestructure.Data.csproj": {
-              "projectPath": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Data\\Pacagroup.Eccomerce.Infraestructure.Data.csproj"
+            "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Data\\Pacagroup.Eccomerce.Infraestructure.Data.csproj": {
+              "projectPath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Data\\Pacagroup.Eccomerce.Infraestructure.Data.csproj"
             },
-            "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Infraestructure.Interface\\Pacagroup.Eccomerce.Infraestructure.Interface.csproj": {
-              "projectPath": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Infraestructure.Interface\\Pacagroup.Eccomerce.Infraestructure.Interface.csproj"
+            "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Infraestructure.Interface\\Pacagroup.Eccomerce.Infraestructure.Interface.csproj": {
+              "projectPath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Infraestructure.Interface\\Pacagroup.Eccomerce.Infraestructure.Interface.csproj"
             },
-            "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Eccomerce.Transversal.Common.csproj": {
-              "projectPath": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Eccomerce.Transversal.Common.csproj"
+            "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Eccomerce.Transversal.Common.csproj": {
+              "projectPath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Eccomerce.Transversal.Common.csproj"
             }
           }
         }

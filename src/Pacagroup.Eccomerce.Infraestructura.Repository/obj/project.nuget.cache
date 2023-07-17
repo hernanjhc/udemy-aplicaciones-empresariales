@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DEl0BoxbjlseJ9MdNswOFIDrphKEGRxQF+e21DXA0SfviA2wb2xL2E+xsHIQAIse6vfhEM1Dtu9ZrbwMGGwpjg==",
+  "dgSpecHash": "+RJb+axL2I+gPbxaSDQ9AnbEUBh/7jOSZcKMOOPMrhzh7X9LL6of6aaxAIFwEM3NB2olo8qbxBzU+kYfEh4rcA==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Repository\\Pacagroup.Eccomerce.Infraestructure.Repository.csproj",
+  "projectFilePath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Infraestructura.Repository\\Pacagroup.Eccomerce.Infraestructure.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joaquin\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

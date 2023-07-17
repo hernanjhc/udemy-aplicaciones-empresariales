@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KKIpUZhAA5ijocJgVixADZWs9xqbY+KnpPKwXKNidSjCER/9uw7o2lzpljedfjd6albIPPcrHv9hgI7+i60Epw==",
+  "dgSpecHash": "F2caYYcw6o7G5tcrJpoNGyPrRicQBMDxS0CzxJTa77JSUxsHIANsAQRWKyCqKZxKnbP+l6vKMxZPZ7uHsWn5NQ==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\Pacagroup.Eccomerce.Domain.Entity.csproj",
+  "projectFilePath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\Pacagroup.Eccomerce.Domain.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

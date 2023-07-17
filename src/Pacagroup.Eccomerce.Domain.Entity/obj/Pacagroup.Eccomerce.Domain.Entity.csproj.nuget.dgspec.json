@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\Pacagroup.Eccomerce.Domain.Entity.csproj": {}
+    "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\Pacagroup.Eccomerce.Domain.Entity.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\Pacagroup.Eccomerce.Domain.Entity.csproj": {
+    "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\Pacagroup.Eccomerce.Domain.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\Pacagroup.Eccomerce.Domain.Entity.csproj",
+        "projectUniqueName": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\Pacagroup.Eccomerce.Domain.Entity.csproj",
         "projectName": "Pacagroup.Eccomerce.Domain.Entity",
-        "projectPath": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\Pacagroup.Eccomerce.Domain.Entity.csproj",
+        "projectPath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\Pacagroup.Eccomerce.Domain.Entity.csproj",
         "packagesPath": "C:\\Users\\Joaquin\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\obj\\",
+        "outputPath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Domain.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

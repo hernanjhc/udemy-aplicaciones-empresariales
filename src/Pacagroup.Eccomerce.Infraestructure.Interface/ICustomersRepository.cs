@@ -18,7 +18,6 @@ namespace Pacagroup.Eccomerce.Infraestructure.Interface
         Task<bool> InsertAsync(Customers customer);
         Task<bool> UpdateAsync(Customers customer);
         Task<bool> DeleteAsync(string customerId);
-
         Task<Customers> GetAsync(string customerId);
         Task<IEnumerable<Customers>> GetAllAsync();
         #endregion

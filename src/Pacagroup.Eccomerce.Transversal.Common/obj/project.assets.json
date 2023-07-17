@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Eccomerce.Transversal.Common.csproj",
+      "projectUniqueName": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Eccomerce.Transversal.Common.csproj",
       "projectName": "Pacagroup.Eccomerce.Transversal.Common",
-      "projectPath": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Eccomerce.Transversal.Common.csproj",
+      "projectPath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Eccomerce.Transversal.Common.csproj",
       "packagesPath": "C:\\Users\\Joaquin\\.nuget\\packages\\",
-      "outputPath": "D:\\Proyectos\\Test\\Udemy - Aplicaciones empresariales\\src\\Pacagroup.Eccomerce.Transversal.Common\\obj\\",
+      "outputPath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Transversal.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
