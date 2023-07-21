@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9pv5RXa5hi6LlNhc+oHfmft+nvlSx5HN8WYEoI32IgE=",
+  "Source": "Pacagroup.Eccomerce.Services.WebApi",
+  "BasePath": "_content/Pacagroup.Eccomerce.Services.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

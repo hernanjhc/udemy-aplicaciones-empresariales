@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Pacagroup.Eccomerce.Application.Interface/1.0.0": {
+        "dependencies": {
+          "Pacagroup.Eccomerce.Application.DTO": "1.0.0",
+          "Pacagroup.Eccomerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Pacagroup.Eccomerce.Application.Interface.dll": {}
+        }
+      },
+      "Pacagroup.Eccomerce.Application.DTO/1.0.0": {
+        "runtime": {
+          "Pacagroup.Eccomerce.Application.DTO.dll": {}
+        }
+      },
+      "Pacagroup.Eccomerce.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Pacagroup.Eccomerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pacagroup.Eccomerce.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacagroup.Eccomerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacagroup.Eccomerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

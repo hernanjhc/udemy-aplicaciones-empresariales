@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pacagroup.Eccomerce.Application.DTO\Pacagroup.Eccomerce.Application.DTO.csproj" />
+    <ProjectReference Include="..\Pacagroup.Eccomerce.Application.Interface\Pacagroup.Eccomerce.Application.Interface.csproj" />
+    <ProjectReference Include="..\Pacagroup.Eccomerce.Application.Main\Pacagroup.Eccomerce.Application.Main.csproj" />
+    <ProjectReference Include="..\Pacagroup.Eccomerce.Domain.Core\Pacagroup.Eccomerce.Domain.Core.csproj" />
+    <ProjectReference Include="..\Pacagroup.Eccomerce.Domain.Entity\Pacagroup.Eccomerce.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Pacagroup.Eccomerce.Domain.Interface\Pacagroup.Eccomerce.Domain.Interface.csproj" />
+    <ProjectReference Include="..\Pacagroup.Eccomerce.Infraestructura.Data\Pacagroup.Eccomerce.Infraestructure.Data.csproj" />
+    <ProjectReference Include="..\Pacagroup.Eccomerce.Infraestructura.Repository\Pacagroup.Eccomerce.Infraestructure.Repository.csproj" />
+    <ProjectReference Include="..\Pacagroup.Eccomerce.Infraestructure.Interface\Pacagroup.Eccomerce.Infraestructure.Interface.csproj" />
+    <ProjectReference Include="..\Pacagroup.Eccomerce.Transversal.Common\Pacagroup.Eccomerce.Transversal.Common.csproj" />
+    <ProjectReference Include="..\Pacagroup.Eccomerce.Transversal.Mapper\Pacagroup.Eccomerce.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

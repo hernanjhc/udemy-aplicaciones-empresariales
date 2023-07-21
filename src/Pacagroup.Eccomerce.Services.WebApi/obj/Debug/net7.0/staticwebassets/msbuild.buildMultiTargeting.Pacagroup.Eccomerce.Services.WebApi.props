@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pacagroup.Eccomerce.Services.WebApi.props" />
+</Project>

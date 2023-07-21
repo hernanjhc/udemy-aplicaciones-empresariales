@@ -1,0 +1,17 @@
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Mapper.deps.json
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Mapper.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Mapper.pdb
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Eccomerce.Application.DTO.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Eccomerce.Domain.Entity.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Eccomerce.Application.DTO.pdb
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\bin\Debug\net7.0\Pacagroup.Eccomerce.Domain.Entity.pdb
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Mapper.csproj.AssemblyReference.cache
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Mapper.AssemblyInfoInputs.cache
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Mapper.AssemblyInfo.cs
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Mapper.csproj.CopyComplete
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Mapper.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\obj\Debug\net7.0\refint\Pacagroup.Eccomerce.Transversal.Mapper.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Mapper.pdb
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Mapper\obj\Debug\net7.0\ref\Pacagroup.Eccomerce.Transversal.Mapper.dll

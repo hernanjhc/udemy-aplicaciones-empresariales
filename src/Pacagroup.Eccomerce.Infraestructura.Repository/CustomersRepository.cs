@@ -22,7 +22,7 @@ namespace Pacagroup.Eccomerce.Infraestructura.Repository
             {
                 var query = "CustomersInsert";
                 var parameters = new DynamicParameters();
-                parameters.Add("CustomerID", customer.CustomersId);
+                parameters.Add("CustomerID", customer.CustomerId);
                 parameters.Add("CompanyName", customer.CompanyName);
                 parameters.Add("ContactName", customer.ContactName);
                 parameters.Add("ContactTitle", customer.ContactTitle);
@@ -30,7 +30,7 @@ namespace Pacagroup.Eccomerce.Infraestructura.Repository
                 parameters.Add("City", customer.City);
                 parameters.Add("Region", customer.Region);
                 parameters.Add("PostalCode", customer.PostalCode);
-                parameters.Add("Cpuntry", customer.Country);
+                parameters.Add("Country", customer.Country);
                 parameters.Add("Phone", customer.Phone);
                 parameters.Add("Fax", customer.Fax);
 
@@ -45,7 +45,7 @@ namespace Pacagroup.Eccomerce.Infraestructura.Repository
             {
                 var query = "CustomersUpdate";
                 var parameters = new DynamicParameters();
-                parameters.Add("CustomerID", customer.CustomersId);
+                parameters.Add("CustomerID", customer.CustomerId);
                 parameters.Add("CompanyName", customer.CompanyName);
                 parameters.Add("ContactName", customer.ContactName);
                 parameters.Add("ContactTitle", customer.ContactTitle);
@@ -53,7 +53,7 @@ namespace Pacagroup.Eccomerce.Infraestructura.Repository
                 parameters.Add("City", customer.City);
                 parameters.Add("Region", customer.Region);
                 parameters.Add("PostalCode", customer.PostalCode);
-                parameters.Add("Cpuntry", customer.Country);
+                parameters.Add("Country", customer.Country);
                 parameters.Add("Phone", customer.Phone);
                 parameters.Add("Fax", customer.Fax);
 
@@ -109,7 +109,7 @@ namespace Pacagroup.Eccomerce.Infraestructura.Repository
             {
                 var query = "CustomersInsert";
                 var parameters = new DynamicParameters();
-                parameters.Add("CustomerID", customer.CustomersId);
+                parameters.Add("CustomerID", customer.CustomerId);
                 parameters.Add("CompanyName", customer.CompanyName);
                 parameters.Add("ContactName", customer.ContactName);
                 parameters.Add("ContactTitle", customer.ContactTitle);
@@ -117,7 +117,7 @@ namespace Pacagroup.Eccomerce.Infraestructura.Repository
                 parameters.Add("City", customer.City);
                 parameters.Add("Region", customer.Region);
                 parameters.Add("PostalCode", customer.PostalCode);
-                parameters.Add("Cpuntry", customer.Country);
+                parameters.Add("Country", customer.Country);
                 parameters.Add("Phone", customer.Phone);
                 parameters.Add("Fax", customer.Fax);
 
@@ -132,7 +132,7 @@ namespace Pacagroup.Eccomerce.Infraestructura.Repository
             {
                 var query = "CustomersUpdate";
                 var parameters = new DynamicParameters();
-                parameters.Add("CustomerID", customer.CustomersId);
+                parameters.Add("CustomerID", customer.CustomerId);
                 parameters.Add("CompanyName", customer.CompanyName);
                 parameters.Add("ContactName", customer.ContactName);
                 parameters.Add("ContactTitle", customer.ContactTitle);
@@ -140,7 +140,7 @@ namespace Pacagroup.Eccomerce.Infraestructura.Repository
                 parameters.Add("City", customer.City);
                 parameters.Add("Region", customer.Region);
                 parameters.Add("PostalCode", customer.PostalCode);
-                parameters.Add("Cpuntry", customer.Country);
+                parameters.Add("Country", customer.Country);
                 parameters.Add("Phone", customer.Phone);
                 parameters.Add("Fax", customer.Fax);
 

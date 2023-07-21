@@ -10,3 +10,15 @@ D:\Proyectos\Test\Udemy - Aplicaciones empresariales\src\Pacagroup.Eccomerce.Tra
 D:\Proyectos\Test\Udemy - Aplicaciones empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\refint\Pacagroup.Eccomerce.Transversal.Common.dll
 D:\Proyectos\Test\Udemy - Aplicaciones empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.pdb
 D:\Proyectos\Test\Udemy - Aplicaciones empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\ref\Pacagroup.Eccomerce.Transversal.Common.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\bin\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.deps.json
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\bin\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\bin\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.pdb
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.csproj.AssemblyReference.cache
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.AssemblyInfoInputs.cache
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.AssemblyInfo.cs
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\refint\Pacagroup.Eccomerce.Transversal.Common.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.pdb
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Transversal.Common\obj\Debug\net7.0\ref\Pacagroup.Eccomerce.Transversal.Common.dll

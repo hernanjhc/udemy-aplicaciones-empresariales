@@ -8,7 +8,7 @@ namespace Pacagroup.Eccomerce.Domain.Entity
 {
     public class Customers
     {
-        public string CustomersId { get; set; }
+        public string CustomerId { get; set; }
         public string CompanyName { get; set; }
         public string ContactName { get; set; }
         public string ContactTitle { get; set; }

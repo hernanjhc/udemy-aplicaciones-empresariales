@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Pacagroup.Eccomerce.Application.DTO/1.0.0": {
+        "runtime": {
+          "Pacagroup.Eccomerce.Application.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pacagroup.Eccomerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
