@@ -62,3 +62,9 @@ D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Servi
 D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Services.WebApi\obj\Debug\net7.0\Pacagroup.Eccomerce.Services.WebApi.pdb
 D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Services.WebApi\obj\Debug\net7.0\Pacagroup.Eccomerce.Services.WebApi.genruntimeconfig.cache
 D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Services.WebApi\obj\Debug\net7.0\ref\Pacagroup.Eccomerce.Services.WebApi.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Services.WebApi\bin\Debug\net7.0\Pacagroup.Eccomerce.Services.WebApi.xml
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Services.WebApi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Services.WebApi\bin\Debug\net7.0\System.Web.Http.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Services.WebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Services.WebApi\bin\Debug\net7.0\Swashbuckle.Core.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Eccomerce.Services.WebApi\obj\Debug\net7.0\Pacagroup.Eccomerce.Services.WebApi.xml
