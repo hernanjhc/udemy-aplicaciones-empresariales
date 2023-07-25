@@ -10,6 +10,7 @@ namespace Pacagroup.Eccomerce.Transversal.Mapper
         {
             //mapeo de customers a customersdto y viceversa.
             CreateMap<Customers, CustomersDTO>().ReverseMap();
+            CreateMap<Users, UsersDto>().ReverseMap();
 
             //En caso que los campos no coincidan
 

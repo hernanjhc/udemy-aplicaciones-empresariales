@@ -15,6 +15,8 @@ using System.ComponentModel;
 using Swashbuckle.Swagger;
 using System.Reflection;
 using License = Swashbuckle.Swagger.License;
+using Pacagroup.Eccomerce.Services.WebApi.Helpers;
+using Pacagroup.Eccomerce.Infraestructure.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -71,8 +73,14 @@ builder.Services.AddScoped<IConnectionFactory, ConnectionFactory>();
 builder.Services.AddScoped<ICustomersApplication, CustomersApplication>();
 builder.Services.AddScoped<ICustomersDomain, CustomersDomain>();
 builder.Services.AddScoped<ICustomersRepository, CustomersRepository>();
+builder.Services.AddScoped<IUsersApplication, UsersApplication>();
+builder.Services.AddScoped<IUsersDomain, UsersDomain>();
+builder.Services.AddScoped<IUsersRepository, UsersRepository>();
 
 builder.Services.AddMvc();
+
+var appSettingsSection = configuration.GetSection("Config");
+builder.Services.Configure<AppSettings>(appSettingsSection);
 
 var app = builder.Build();
 
@@ -90,5 +98,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 app.UseCors(myPolicy);
+app.UseAuthentication();
 
 app.Run();
