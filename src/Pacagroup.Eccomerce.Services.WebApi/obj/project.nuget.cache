@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ve2nNWFfXpxqk0JydQitMnBmAzFa09NZ7eCD1PgLzeNv9vNO/sLyCNFziaz4VbTB1+5eE9ydrMjXm29oxZxQjA==",
+  "dgSpecHash": "Kd+LoVr4ZeaCSD8s/Y5wBd+qHg03N+O31ILHf4GWMLtvyj4xUwJDjxMmx9vUV2CZjU00uF662ke761K8fnuASg==",
   "success": true,
   "projectFilePath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Services.WebApi\\Pacagroup.Eccomerce.Services.WebApi.csproj",
   "expectedPackageFiles": [
@@ -14,8 +14,11 @@
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.32.0\\microsoft.identitymodel.abstractions.6.32.0.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.32.0\\microsoft.identitymodel.jsonwebtokens.6.32.0.nupkg.sha512",

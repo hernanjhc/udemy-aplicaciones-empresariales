@@ -1,0 +1,15 @@
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce .Transversal.Logging.deps.json
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce .Transversal.Logging.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce .Transversal.Logging.pdb
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\bin\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\bin\Debug\net7.0\Pacagroup.Eccomerce.Transversal.Common.pdb
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce .Transversal.Logging.csproj.AssemblyReference.cache
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce .Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce .Transversal.Logging.AssemblyInfoInputs.cache
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce .Transversal.Logging.AssemblyInfo.cs
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce .Transversal.Logging.csproj.CoreCompileInputs.cache
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce .Transversal.Logging.csproj.CopyComplete
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce .Transversal.Logging.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\obj\Debug\net7.0\refint\Pacagroup.Ecommerce .Transversal.Logging.dll
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce .Transversal.Logging.pdb
+D:\Proyectos\Test\udemy-aplicaciones-empresariales\src\Pacagroup.Ecommerce .Transversal.Logging\obj\Debug\net7.0\ref\Pacagroup.Ecommerce .Transversal.Logging.dll

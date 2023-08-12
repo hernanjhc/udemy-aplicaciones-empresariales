@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pacagroup.Eccomerce.Applica
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pacagroup.Eccomerce.Application.Main", "Pacagroup.Eccomerce.Application.Main\Pacagroup.Eccomerce.Application.Main.csproj", "{01F66C14-AE04-44CE-B6F3-025A348BA7A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Eccomerce.Services.WebApi", "Pacagroup.Eccomerce.Services.WebApi\Pacagroup.Eccomerce.Services.WebApi.csproj", "{BA6CD078-DE5F-4029-85C2-44D9FAB132C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pacagroup.Eccomerce.Services.WebApi", "Pacagroup.Eccomerce.Services.WebApi\Pacagroup.Eccomerce.Services.WebApi.csproj", "{BA6CD078-DE5F-4029-85C2-44D9FAB132C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce .Transversal.Logging", "Pacagroup.Ecommerce .Transversal.Logging\Pacagroup.Ecommerce .Transversal.Logging.csproj", "{8C59F925-47E9-4DC7-88DE-7C98A5F6FD07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -91,6 +93,10 @@ Global
 		{BA6CD078-DE5F-4029-85C2-44D9FAB132C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA6CD078-DE5F-4029-85C2-44D9FAB132C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA6CD078-DE5F-4029-85C2-44D9FAB132C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C59F925-47E9-4DC7-88DE-7C98A5F6FD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C59F925-47E9-4DC7-88DE-7C98A5F6FD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C59F925-47E9-4DC7-88DE-7C98A5F6FD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C59F925-47E9-4DC7-88DE-7C98A5F6FD07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -108,6 +114,7 @@ Global
 		{14090169-C28B-46B4-B095-0E9199F9406D} = {A0D690CD-8180-4048-8835-A7E4151DC255}
 		{01F66C14-AE04-44CE-B6F3-025A348BA7A3} = {A0D690CD-8180-4048-8835-A7E4151DC255}
 		{BA6CD078-DE5F-4029-85C2-44D9FAB132C8} = {E0DF8228-C131-4530-BDA3-1BC7BC6CE34D}
+		{8C59F925-47E9-4DC7-88DE-7C98A5F6FD07} = {C4CC3A3C-D04F-4972-91C3-3B418B065BB8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {77CC5078-1644-4A0B-9475-3E53A4CF5025}

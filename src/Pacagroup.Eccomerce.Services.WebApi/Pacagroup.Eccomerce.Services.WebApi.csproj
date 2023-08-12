@@ -28,6 +28,7 @@
     <ProjectReference Include="..\Pacagroup.Eccomerce.Infraestructure.Interface\Pacagroup.Eccomerce.Infraestructure.Interface.csproj" />
     <ProjectReference Include="..\Pacagroup.Eccomerce.Transversal.Common\Pacagroup.Eccomerce.Transversal.Common.csproj" />
     <ProjectReference Include="..\Pacagroup.Eccomerce.Transversal.Mapper\Pacagroup.Eccomerce.Transversal.Mapper.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce .Transversal.Logging\Pacagroup.Ecommerce .Transversal.Logging.csproj" />
   </ItemGroup>
 
 </Project>
