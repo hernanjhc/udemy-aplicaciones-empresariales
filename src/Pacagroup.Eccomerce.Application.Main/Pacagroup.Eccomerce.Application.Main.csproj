@@ -16,6 +16,7 @@
     <ProjectReference Include="..\Pacagroup.Eccomerce.Domain.Entity\Pacagroup.Eccomerce.Domain.Entity.csproj" />
     <ProjectReference Include="..\Pacagroup.Eccomerce.Domain.Interface\Pacagroup.Eccomerce.Domain.Interface.csproj" />
     <ProjectReference Include="..\Pacagroup.Eccomerce.Transversal.Common\Pacagroup.Eccomerce.Transversal.Common.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Application.Validator\Pacagroup.Ecommerce.Application.Validator.csproj" />
   </ItemGroup>
 
 </Project>

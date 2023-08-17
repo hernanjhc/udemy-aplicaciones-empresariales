@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "m8p6b0LimhYXBwTvk/bqd3BVlHKpfmStXlcuFwHdmh5s9QHX/pBk9ukn8NRrN/YDzCpLWCYQpLueip8VXLgJ7A==",
+  "dgSpecHash": "iN3ZMr01mYs0Epv5zHlX5wkJltxCEHPU3r4hbasQmGdDoe06pntdoNynq9IY+/kuW//zi4kXg6001BBDftEw3w==",
   "success": true,
   "projectFilePath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Ecommerce .Transversal.Logging\\Pacagroup.Ecommerce .Transversal.Logging.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Joaquin\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",

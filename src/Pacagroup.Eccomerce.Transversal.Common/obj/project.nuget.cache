@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IB8DLI9m8ZKFhklIqsv3pFsgt5VBdokcV5dE3qquT4XaC9/2UwYDSvcAqO2klGqOiXSYxcoKY+djQZiuUlxbZA==",
+  "dgSpecHash": "XOuccyjRg5fQbL/JkquOjs5gKvpSLWcA7tGZ2aB2XpkDdHu1tl8ZZNGtqziCfGu1O0gd6D2oC401MBuwnLsOVA==",
   "success": true,
   "projectFilePath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Eccomerce.Transversal.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Joaquin\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

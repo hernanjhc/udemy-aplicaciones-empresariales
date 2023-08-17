@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "FROIGoUj+eZnYDg0b+fwrMq1z5puLaz4iprvlbfD3+wJfsqXojxpuxGQGNxTbjttlSSzO6FUu0uQF4b+7VlcSQ==",
+  "dgSpecHash": "5D/ZdV96+RvJdwy7ONxSKx+hUs0Qud0ZOesoj5u1vJMQFN8yLgaV7UDqjGlY63noNViebstzouykMsC09U4qSg==",
   "success": true,
   "projectFilePath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Application.Main\\Pacagroup.Eccomerce.Application.Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joaquin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\Joaquin\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
   ],
   "logs": []
 }

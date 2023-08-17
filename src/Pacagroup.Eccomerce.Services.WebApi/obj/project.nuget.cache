@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Qz/7NgBgjJdhZhDgldV6RTJePl4+U85uVxN0/EQBNOsAgrI7Pm3agtGL9crPELq+rkGyvm8I+MILKXM7z3ujGQ==",
+  "dgSpecHash": "Fg9m9KUQBeNmeJqBLcNkiEiMKm5XCr6BoRFn4jjFMeLD06et5Yfqz5ZHlf/AXsrAbGBd1tDiRVTyWLBEhWzkNg==",
   "success": true,
   "projectFilePath": "D:\\Proyectos\\Test\\udemy-aplicaciones-empresariales\\src\\Pacagroup.Eccomerce.Services.WebApi\\Pacagroup.Eccomerce.Services.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joaquin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\Joaquin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",
     "C:\\Users\\Joaquin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",

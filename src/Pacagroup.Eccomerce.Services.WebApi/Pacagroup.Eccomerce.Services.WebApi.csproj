@@ -32,6 +32,7 @@
     <ProjectReference Include="..\Pacagroup.Eccomerce.Transversal.Common\Pacagroup.Eccomerce.Transversal.Common.csproj" />
     <ProjectReference Include="..\Pacagroup.Eccomerce.Transversal.Mapper\Pacagroup.Eccomerce.Transversal.Mapper.csproj" />
     <ProjectReference Include="..\Pacagroup.Ecommerce .Transversal.Logging\Pacagroup.Ecommerce .Transversal.Logging.csproj" />
+    <ProjectReference Include="..\Pacagroup.Ecommerce.Application.Validator\Pacagroup.Ecommerce.Application.Validator.csproj" />
   </ItemGroup>
 
 </Project>

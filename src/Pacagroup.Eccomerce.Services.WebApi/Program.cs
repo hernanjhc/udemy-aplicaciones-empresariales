@@ -19,6 +19,7 @@ using Pacagroup.Eccomerce.Services.WebApi.Helpers;
 using Pacagroup.Eccomerce.Infraestructure.Repository;
 using Pacagroup.Ecommerce_.Transversal.Logging;
 using Microsoft.OpenApi.Models;
+using Pacagroup.Eccomerce.Services.WebApi.Validator;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -100,6 +101,8 @@ builder.Services.AddScoped<IUsersRepository, UsersRepository>();
 builder.Services.AddScoped(typeof(IAppLogger<>), typeof(LoggerAdapter<>));
 
 builder.Services.AddMvc();
+
+builder.Services.AddValidator();
 
 var appSettingsSection = configuration.GetSection("Config");
 builder.Services.Configure<AppSettings>(appSettingsSection);
