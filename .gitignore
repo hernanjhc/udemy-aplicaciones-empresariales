@@ -5,6 +5,8 @@ src/Pacagroup.Eccomerce.Application.Interface/bin
 src/Pacagroup.Eccomerce.Application.Interface/obj
 src/Pacagroup.Eccomerce.Application.Main/bin
 src/Pacagroup.Eccomerce.Application.Main/obj
+src/Pacagroup.Ecomerce.Application.Validator/bin
+src/Pacagroup.Ecomerce.Application.Validator/obj
 src/Pacagroup.Eccomerce.Domain.Core/bin
 src/Pacagroup.Eccomerce.Domain.Core/obj
 src/Pacagroup.Eccomerce.Domain.Entity/bin
@@ -25,3 +27,4 @@ src/Pacagroup.Eccomerce.Transversal.Mapper/bin
 src/Pacagroup.Eccomerce.Transversal.Mapper/obj
 src/Pacagroup.Ecommerce.Transversal.Logging/bin
 src/Pacagroup.Ecommerce.Transversal.Logging/obj
+/src/Pacagroup.Ecommerce.Application.Validator
