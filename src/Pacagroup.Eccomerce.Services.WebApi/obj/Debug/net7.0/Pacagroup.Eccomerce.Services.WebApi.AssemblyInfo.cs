@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("c9469a4a-cabc-4079-9a33-567a848767d7")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pacagroup.Eccomerce.Services.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
